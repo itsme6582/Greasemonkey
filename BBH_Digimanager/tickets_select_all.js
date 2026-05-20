@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BBH DigiManager - Property Dropdown Tools (Scoped, Fast, Clean Status)
 // @namespace    https://github.com/itsme6582/Greasemonkey
-// @version      2.6.1
+// @version      2.0
 // @description  ONLY enhances the dropdown labeled "Property": Select All, Clear All, Filter, and clean status (Ready/Selecting/Clearing). Shows 1 name or N selected in the input. Fast + scoped.
 // @match        https://*.bbhnow.com/*
 // @match        https://dev.bbhnow.com/*
